@@ -1,0 +1,10 @@
+{
+	"Hello": "Holla",
+	"Calling readyToPick...": "Llamando listo para elegir...",
+	"No Pick Found for you, Please check with your area manager and retry again.": "No se encontró ninguna selección para usted, verifique el administrador de área y vuelva a intentarlo.",
+	"Authentication successful! No trip found for the user ": "Autenticación exitosa! Ningún viaje encontrado para el usuario ",
+	" , Please check with your area manager": " , Por favor revise el gerente de área",
+	"Authentication failed, Please say your userid again!": "Autenticación fallida, ¡diga su nombre de usuario otra vez!",
+	"I didn't get that. Can you say it again?": "No entendí eso. ¿Puedes decirlo otra vez?",
+	"OOPS! Something got broken! Please re-enter the userid": "Ups ¡Algo se rompió! Contacte al administrador del sistema"
+}
